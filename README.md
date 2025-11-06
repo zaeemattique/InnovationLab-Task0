@@ -9,7 +9,7 @@ This repository can serve as a foundational Infrastructure-as-Code (IaC) templat
 
 ## Architecture Diagram
 
-![Architecture Diagram](Task0%20(1).jpg)
+![Architecture Diagram](Architecture%20Diagram.jpg)
 
 ---
 
