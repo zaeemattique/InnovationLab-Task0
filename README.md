@@ -120,3 +120,6 @@ This repository can serve as a foundational Infrastructure-as-Code (IaC) templat
    ```bash
    git clone https://github.com/zaeemattique/vpc-infrastructure-terraform.git
    cd vpc-infrastructure-terraform
+   terraform init
+   terraform plan
+   terraform apply
