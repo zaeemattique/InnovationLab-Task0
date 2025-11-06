@@ -118,5 +118,5 @@ This repository can serve as a foundational Infrastructure-as-Code (IaC) templat
 ### **Steps**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/vpc-infrastructure-terraform.git
+   git clone https://github.com/zaeemattique/vpc-infrastructure-terraform.git
    cd vpc-infrastructure-terraform
