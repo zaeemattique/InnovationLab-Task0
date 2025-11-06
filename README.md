@@ -1,4 +1,4 @@
-# Create VPC Infrastructure (Task 1)
+# Create VPC Infrastructure (Task 0)
 
 ## Project Overview
 This project demonstrates the complete setup of a **custom AWS Virtual Private Cloud (VPC)** infrastructure using **Terraform**. The goal is to create a secure, scalable, and production-ready networking environment that supports public and private subnets, routing, NAT configuration, and private service connectivity via VPC Endpoints. Additionally, the project enables **VPC Flow Logs** for monitoring network traffic and stores them in **Amazon S3** for auditing and analysis.
